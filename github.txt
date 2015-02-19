@@ -3,7 +3,7 @@ Transmisión de archivos
 Hosting barato normal --> /public_html/ <-- FTP
 	index.php
 	images
-	leonidas.jpg
+	MatiusCruz.jpg
 www.fuckencio.com
 
 SISTEMA DE CONTROL DE VERSIONES 
